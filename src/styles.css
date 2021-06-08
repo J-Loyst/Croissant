@@ -1,9 +1,10 @@
 body {
-  font: 400;
+  font: 100;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   background-color: darkgrey;
 }
 h4,
-p {
+p,
+a {
   text-align: center;
 }
