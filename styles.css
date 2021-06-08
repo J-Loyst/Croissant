@@ -1,4 +1,6 @@
 body {
   font: 400;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: darkgrey;
+  text-align: center;
 }
